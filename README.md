@@ -1,6 +1,4 @@
 # SLOSS_1
-Riva and Fahrig, first postdoc project
-
 Repository for the analysis conducted in Riva and Fahrig (2022) The disproportionately high value of small patches for biodiversity conservation
 https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12881
 
